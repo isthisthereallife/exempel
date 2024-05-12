@@ -1,0 +1,14 @@
+body {
+    color: brown;
+    background-color: aquamarine;
+}
+
+body.about {
+    color: blueviolet;
+    background-color: azure;
+}
+
+img {
+    padding-bottom: 20px;
+    max-width: 100vw;
+}
